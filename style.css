@@ -1,0 +1,14 @@
+* {margin: 0; padding: 0; box-sizing: border-box;}
+
+body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;padding: 
+    20px;background-color: #fff9e8;}
+
+a {text-decoration: none;color: #5a2c02}
+
+h1, h2, h3 {color: #5a2c02;}
+
+.button {background-color: #fff9e8;}
+
+p a, li a {color: #57310d; font-weight: bold;}
+
+img{ border-radius: 25px;}
