@@ -1,5 +1,9 @@
 * {margin: 0; padding: 0; box-sizing: border-box;}
 
+header{ background-color: #f0e2bc;padding: 10px; border-radius: 10px; text-align: center;}
+
+nav ul {list-style: none; margin: 0; padding: 0; display: flex; justify-content: space-evenly;}
+
 body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6;padding: 
     20px;background-color: #fff9e8;}
 
